@@ -85,7 +85,7 @@ export default async function Video({ params }: PageProps) {
 	const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'VideoObject',
-        name: `${file.title}`,
+        name: `Bokep ${file.title}`,
         thumbnailUrl: file.splash_img,
         description: `Video Bokep ${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma Viral`,
         url: `https://bokepmanja.pages.dev/v/${file.filecode}`,
