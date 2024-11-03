@@ -1,4 +1,4 @@
-mport "./globals.css";
+import "./globals.css";
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: "kJd-P4WpHjy8CCsVEw7KVDTcwQT27UjQ7KmtpUNuUmc",
-        yandex: "71f9a8a57b31ff62",
+        google: 'kJd-P4WpHjy8CCsVEw7KVDTcwQT27UjQ7KmtpUNuUmc',
+        yandex: '71f9a8a57b31ff62',
     },
 };
 
